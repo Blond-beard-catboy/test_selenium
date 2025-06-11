@@ -37,4 +37,8 @@ def test_api():
         driver.quit()
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     test_api()
+=======
+    test_api()
+>>>>>>> 0ca0698 (Initial commit: Selenium API test project)
